@@ -1,6 +1,10 @@
 # [Game] | [Dreamcatcher’s Odyssey] | [Unity]
 [Click here to give it a try](https://shawnjobseeking.itch.io/dreamcatchers-odyssey)
 
+## Game Overview
+Final assignment project for the Game Narrative course, completed in three days in a hurry.
+Thanks to my girlfriend for her hard work drawing the material!!!
+
 ## Job Responsibilities
 
 Programmer and Gameplay Designer
